@@ -27,10 +27,10 @@ Check the Configuring Active Directory Lab.
 <img src="https://github.com/ronnydiggs/develop-dns/assets/64152064/9b898efa-c5ed-4d6f-b5ec-28fbecd57694" width="400"/>
 </p>
 <p>
-Log into DomainController as the domain admin account (mydomain.com\ronny)
+Log into DomainController (20.62.172.190) as the domain admin account (mydomain.com\ronny)
 </p>
 <p>
-Log into Client1 as admin as well (mydomain.com\ronny)
+Log into Client1 (20.51.184.132) as admin as well (mydomain.com\ronny)
 </p>
 <br />
 
